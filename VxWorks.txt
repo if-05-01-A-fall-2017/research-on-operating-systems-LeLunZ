@@ -1,0 +1,11 @@
+					    VxWorks
+
+VxWorks ist ein proprietäres Echtzeitbetriebssystem. Die Entwicklung leitete das Unternehmen “Wind River Systems”. 
+Das System wird in vielen alltäglichen Geräten Eingesetzt. Zum Beispiel wurde es in digitalen Kameras verwendet. Derzeit kommt es in Sicherheitsverifizierung, in der Luft fahrt und Verteidigung, in Medizinischen Geräten, Robotern, und vielen anderen Dingen vor.
+
+1980 gab es den ersten Release für 32 bit Prozessoren. Im Jahr 2010 gab es ein Release für 64 Bit Systeme. Es wird aber nur noch 64 Bit supported. 
+VxWorks ist für asymetrisches Mutlicoreprocessing, symetrisches Multicoreprocessing und andere Modes verwendbar.
+
+VxWorks unterstützt viele Filesystems (HRFS, DOSFS, NFS and TFFS)
+
+Da sicherheit, Anschlussmöglischkeiten und das Graphische Interface verbessert wurden, ist es sehr gut für die Arbeit im Bereich “IOT” (Internet of Things).
